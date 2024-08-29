@@ -52,6 +52,8 @@ Transfer Learning: They often use transfer learning to adapt these pre-trained m
 Specialized Applications: For more specialized detection tasks or when the pre-trained models do not meet the required performance standards, Motorola Solutions may develop custom models. These models are typically designed to meet the specific constraints and requirements of the hardware they will be deployed on (e.g., specialized SoCs in surveillance cameras) and the particularities of the detection task (e.g., recognizing unusual behaviors or specific objects like guns).
 Optimization: Custom models are often optimized for edge deployment, ensuring they can run efficiently on the limited computational resources available in devices like PTZ (Pan-Tilt-Zoom) cameras. This might involve reducing the model's size, quantizing the model, or using specialized architectures designed for lower power consumption.
 
+ok
+
 
 5. Hybrid Approach:
 Integration: In many cases, Motorola Solutions might integrate both pre-trained and custom models within a single detection pipeline. For instance, a pre-trained model could handle general object detection, while a custom model, fine-tuned or developed specifically for a particular scenario, handles more specific detection tasks.
