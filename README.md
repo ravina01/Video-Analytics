@@ -57,3 +57,69 @@ ok
 
 5. Hybrid Approach:
 Integration: In many cases, Motorola Solutions might integrate both pre-trained and custom models within a single detection pipeline. For instance, a pre-trained model could handle general object detection, while a custom model, fine-tuned or developed specifically for a particular scenario, handles more specific detection tasks.
+---
+
+CVAT tools - data augmentation
+
+
+- on pixelated people - used transfer learning.
+- for tasks like railtrack detections - we need segementations and not - detection model.
+- 
+
+
+
+![image](https://github.com/user-attachments/assets/17118f65-79ef-45bf-a4d4-a1008a0f4673)
+
+
+---
+
+### CNNs in video analysis -
+
+Challenges -
+1. huge amounts of video data
+2. often in rawm unedited formar
+3. cannot easily be categorized and searched
+4. need to understand visual data
+
+---
+
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
